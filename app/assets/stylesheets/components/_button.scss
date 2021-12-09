@@ -1,0 +1,23 @@
+.btn-flat {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: #1EDD88;
+  transition: background 0.3s ease;
+}
+
+.red {
+  background-color: red;
+}
+
+.movie-tag {
+  color: white;
+  padding: 6px 16px;
+  font-size: larger;
+  border-radius: 4px;
+  background: #fcbf49;
+  transition: background 0.3s ease;
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+}
